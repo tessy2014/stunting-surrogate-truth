@@ -1,0 +1,6 @@
+# data are downloaded by the user, not redistributed
+data/
+who/
+outputs_paper6/
+.ipynb_checkpoints/
+__pycache__/
